@@ -1,0 +1,132 @@
+NOTE : Data compiled from US Government
+1970-2017
+
+---------------------------------------------------------------
+'Country'
+
+-> Names of the countries (can be used as indexes)
+---------------------------------------------------------------
+
+---------------------------------------------------------------
+'Region'
+
+-> Nominal variable
+-> Describes which continent the country is on.
+-> Has 11 different values.
+---------------------------------------------------------------
+
+---------------------------------------------------------------
+'Population'
+
+-> Numeric variable
+-> Describes how many people live on the given country
+---------------------------------------------------------------
+
+---------------------------------------------------------------
+'Area (sq. mi.)'
+
+-> Numeric variable
+-> Describes the surface area of the given country.(unit -> square mile).
+---------------------------------------------------------------
+
+---------------------------------------------------------------
+'Pop. Density (per sq. mi.)'
+
+-> Numeric variable
+-> Means ([Population] / [Area])
+---------------------------------------------------------------
+
+---------------------------------------------------------------
+'Coastline (coast/area ratio)'
+
+-> Numeric variable
+-> Means (length of coasts / area)
+---------------------------------------------------------------
+
+---------------------------------------------------------------
+'Net migration'
+
+-> Numeric variable
+-> Can be negative or positive
+
+-> N = (I - E) / M X 1,000
+
+N = Net Migration Rate
+
+I = Number of Immigrants Entering the Area
+
+E = Number of Emigrants Leaving the Area
+
+M = (Mid Year) Population
+---------------------------------------------------------------
+
+---------------------------------------------------------------
+'Infant mortality (per 1000 births)'
+
+-> Infant mortality ratio is how many infants died per 1000 births
+-> Average value of infant mortality ratios between 1970 - 2017
+---------------------------------------------------------------
+---------------------------------------------------------------
+'GDP ($ per capita)'
+
+-> GDP per capita is a country’s economic output divided by its population.
+---------------------------------------------------------------
+
+---------------------------------------------------------------
+'Literacy (%)'
+
+-> Literacy is popularly understood as an ability to read, write and use numeracy in at least one method of writing, an understanding reflected by mainstream dictionary and handbook definitions.
+-> (Number of people who can read / population)
+---------------------------------------------------------------
+
+---------------------------------------------------------------
+'Phones (per 1000)'
+
+-> The total number of mobile cellular telephones in use. Figures expressed per thousand population for the same year.
+---------------------------------------------------------------
+---------------------------------------------------------------
+'Arable (%)'
+
+-> Percentage of lands that are eligible for farming.
+-> (Arable areas / Surface area) x 100
+---------------------------------------------------------------
+
+---------------------------------------------------------------
+'Crops (%)'
+
+-> Percentage of lands that are being used for farming.
+---------------------------------------------------------------
+
+
+---------------------------------------------------------------
+'Other (%)'
+
+-> 100 - Arable - Crops
+---------------------------------------------------------------
+
+---------------------------------------------------------------
+'Climate'
+
+-> No information :/
+---------------------------------------------------------------
+
+---------------------------------------------------------------
+'Birthrate'
+
+-> (Birth / Population) x 1000
+---------------------------------------------------------------
+
+---------------------------------------------------------------
+'Deathrate'
+
+-> (Death / Population) x 1000
+---------------------------------------------------------------
+
+---------------------------------------------------------------
+'Agriculture'
+'Industry'
+'Service'
+
+-> Ratios of agriculture , industry and services in given country
+-> Agriculture + Industry + Service = 1
+---------------------------------------------------------------
